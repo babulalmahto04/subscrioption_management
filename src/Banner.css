@@ -1,0 +1,55 @@
+.datas{
+    height: 100px;
+    background-color: dimgray;
+}
+.date_d{
+    background-color: black;
+    border:1px solid black;
+    width: 60px;
+    height:60px;
+    color:white;
+    font-size:5px;
+    margin-left:10px;
+    margin-top: 20px;
+    text-align:center;
+    border-radius:4px;
+
+}
+.title_a{
+    margin-left:100px; 
+    margin-top:-80px;         
+}
+.amnt_a{
+    height:40px ;
+    margin-left: 80%;
+    
+    border-radius:10px ;
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+}
+
+.amnt_d{
+    margin-left:25%;
+    border:1px solid black;
+    margin-top:-70px;
+    padding:10px;
+    background-color:black;
+    color:white;
+}
+.ct{
+    width: 90px;
+    border:1px solid cornflowerblue;
+    margin-top:-75px;
+    margin-right:100px;
+    background-color:white;
+}
+.select_y{
+    color: blue;
+    margin-left: 1200px;
+    
+    
+}
+.filter_a{
+    margin-left: 1080px;
+}
